@@ -1,0 +1,22 @@
+[
+  {
+    "firstName": "John",
+    "secondName": "Doe",
+    "age": 30,
+    "city": "New York"
+  },
+  {
+    "id": "5f36a16e-a68c-4fe2-8a51-ed5b87c2d9c6",
+    "firstName": "John",
+    "secondName": "Doe",
+    "age": 33,
+    "city": "New York"
+  },
+  {
+    "id": "aeeadf6c-1e7b-45ba-bcc3-63c11c12954a",
+    "firstName": "John",
+    "secondName": "Doe",
+    "age": 23,
+    "city": "New York"
+  }
+]
